@@ -1,0 +1,91 @@
+.npmrc
+  s_0ac33e64701c66::t_c2d0fe435b0d29 1-2
+package.json
+  s_0ac33e64701c66::t_0fa6de2af258a7 52,70-73
+pnpm-workspace.yaml
+  s_0ac33e64701c66::t_1f3ddce59f9dd0 2-27
+src/common/errors.test.ts
+  s_0ac33e64701c66::t_8691a25ead0aa4 1
+src/common/firecrawl-utils.test.ts
+  s_0ac33e64701c66::t_d5ebf035dc0bdf 9
+src/common/http.test.ts
+  s_0ac33e64701c66::t_ba7a4909ae9356 8
+src/common/provider-response.test.ts
+  s_0ac33e64701c66::t_18ad18325858b2 2
+src/common/results.test.ts
+  s_0ac33e64701c66::t_d41ac03e8c5aa1 2
+src/common/retry.test.ts
+  s_0ac33e64701c66::t_c9993658c24043 1
+src/common/search-operators.test.ts
+  s_0ac33e64701c66::t_d53ce3db2187a5 1
+src/common/validation.test.ts
+  s_0ac33e64701c66::t_adcf18cd558ae9 1
+src/config/env.test.ts
+  s_0ac33e64701c66::t_6a2d3d180877e0 1
+src/providers/ai-response/exa-answer/index.test.ts
+  s_0ac33e64701c66::t_b50f458bbf425c 8
+src/providers/ai-response/kagi-fastgpt/index.test.ts
+  s_0ac33e64701c66::t_3f8ca01dd4edce 8
+src/providers/ai-response/linkup/index.test.ts
+  s_0ac33e64701c66::t_6d633a7496665e 8
+src/providers/enhancement/kagi-enrichment/index.test.ts
+  s_0ac33e64701c66::t_b3394111031e96 8
+src/providers/processing/exa-contents/index.test.ts
+  s_0ac33e64701c66::t_6a69aefb399bf5 8
+src/providers/processing/exa-similar/index.test.ts
+  s_0ac33e64701c66::t_2f7dc8514c68ca 8
+src/providers/processing/firecrawl-actions/index.test.ts
+  s_0ac33e64701c66::t_a33617f43b9f6c 8
+src/providers/processing/firecrawl-crawl/index.test.ts
+  s_0ac33e64701c66::t_58b850984eb7b5 8
+src/providers/processing/firecrawl-extract/index.test.ts
+  s_0ac33e64701c66::t_fb872dd3e83dbd 8
+src/providers/processing/firecrawl-map/index.test.ts
+  s_0ac33e64701c66::t_44c5a6e7edcc5f 8
+src/providers/processing/firecrawl-scrape/index.test.ts
+  s_0ac33e64701c66::t_5829a0e2abe007 8
+src/providers/processing/kagi-summarizer/index.test.ts
+  s_0ac33e64701c66::t_352678bfd6e07b 8
+src/providers/processing/tavily-extract/index.test.ts
+  s_0ac33e64701c66::t_9f40ec9ccb1341 8
+src/providers/search/brave/index.test.ts
+  s_0ac33e64701c66::t_7964fa0620bd84 8
+src/providers/search/exa/index.test.ts
+  s_0ac33e64701c66::t_cbe2b0163a5fd9 8
+src/providers/search/github/index.test.ts
+  s_0ac33e64701c66::t_f7be8c5f9d18a5 8
+src/providers/search/kagi/index.test.ts
+  s_0ac33e64701c66::t_39c4192b1628c5 8
+src/providers/search/search-operators.test.ts
+  s_0ac33e64701c66::t_c0a1c392f2c6ff 8
+src/providers/search/tavily/index.test.ts
+  s_0ac33e64701c66::t_5b1750414e3311 8
+src/server/handlers.test.ts
+  s_0ac33e64701c66::t_4347902da41036 1
+src/server/provider-definitions.test.ts
+  s_0ac33e64701c66::t_73d34d788d649b 1
+src/server/provider-registry.test.ts
+  s_0ac33e64701c66::t_1fd8130f2d63a8 1
+src/server/tools/contract.test.ts
+  s_0ac33e64701c66::t_b52cd30d46ea8b 2
+src/server/tools/responses.test.ts
+  s_0ac33e64701c66::t_0802bdb35c783a 1
+src/server/tools/schemas.test.ts
+  s_0ac33e64701c66::t_35356335e74767 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a08eaa2b4d38cd0f724753ece07f158782685722",
+  "prompts": {},
+  "sessions": {
+    "s_0ac33e64701c66": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_075d29060ffezQSiOhstWcng5h",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wan9chi <dk4rest@gmail.com>"
+    }
+  }
+}
