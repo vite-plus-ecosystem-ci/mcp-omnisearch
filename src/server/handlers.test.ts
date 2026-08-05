@@ -1,4 +1,4 @@
-import { describe, expect, it } from 'vitest';
+import { describe, expect, it } from 'vite-plus/test';
 import { setup_handlers } from './handlers.js';
 import { web_search_provider_definitions } from './provider-definitions.js';
 import type { ProviderStatus } from './provider-registry.js';
