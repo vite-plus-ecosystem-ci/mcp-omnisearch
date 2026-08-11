@@ -1,0 +1,93 @@
+.npmrc
+  s_fdbdae8c09ca7c::t_2d3449014eb651 1-2
+package.json
+  s_fdbdae8c09ca7c::t_94444b7420a86a 52,70-73
+pnpm-lock.yaml
+  s_fdbdae8c09ca7c::t_5e944c777a6c3b 7-19,42,45,47,49-51,53-54,56-57,62,66,70,73-74,79,82-83,87,91,94,97,100,103,107,110,113,116,119,122,125,128,131,134,137,140,143,146,149,158,162,165,168,171,174,178,182,185-186,189-190,193-194,197-198,201-202,206,209-210,213-214,217-218,221-222,225-226,230,233-234,238-241,244,247,253-259,265,270-271,276-277,282-283,286-287,291-294,297,301,304-305,308-309,311-312,317-318,323-324,329-330,335-336,341-342,347-348,353-354,360-361,367-368,374-375,381-382,388-389,395-396,402-403,409-410,415-416,421-422,427-428,434,439,444,449,454,459,463-464,469-470,475-476,481-482,487-488,493-494,499-500,505-506,512-513,519-520,526-527,533-534,540-541,547-548,554-555,561-562,567-568,573-574,579-580,586,590,593,596,599-600,606,612,617,619-620,623,626,629,632,634-635,637-638,643,648,653,662,665,676,679,682,685,688,690-691,696,747-748,753-754,759-760,766-767,773-774,780-781,787-788,793-794,800,805,810,815,821,827,833,839,845,851,856,861,866,871,876,882,888,894,900,906,912,917,922,925,929,933,937,940,943,946,950,954,957,960,964,967,971,975-979,982,985,989,993,997,1001,1005,1008,1012,1015,1020,1023,1027,1030,1034,1037,1046,1050,1054,1058,1062,1067,1071,1075,1078,1082,1085,1089,1093,1097,1101,1105,1109,1113,1117,1120,1124,1128,1132,1135,1137-1138,1141-1142,1146,1148-1149,1152,1155,1161,1167,1173,1179,1185,1192,1199,1206,1213,1219,1225,1229,1233,1236,1240,1242-1243,1246,1250,1254,1258,1262,1265-1266,1270-1271,1275,1279,1281-1282,1295,1298-1299,1312,1316,1320,1324,1328,1332,1335,1339,1343,1347,1350,1353,1357,1361,1365,1368-1369,1373,1378,1382,1385,1388,1391,1395,1399,1403,1406,1409,1414,1418,1422,1425,1429,1433,1437,1441,1444,1447,1450,1453,1456,1460,1464,1468,1472,1474-1475,1479,1483,1487,1491,1494,1497-1499,1502,1506,1509,1512,1515,1519,1522,1529-1530,1543,1584,1589,1593-1594,1606,1609,1623,1625,1629,1667,1683,1746,1781,1786,1825,1827-1832,1835,1837-1842,1846,1848-1851,1854,1856-1858,1861,1863-1866,1871,1873-1874,1876,1879-1882,1886,1888,1891,1893-1894,1897,1899-1902,1904-1905,1910,1913-1915,1919-1920,1923,1925,1927,1929,1932,1934-1935,1937,1939,1941-1946,1949,1951-1952,1955,1957,1959,1961-1965,1972-1975,1981,1984,1986,1988,1991,1994,1997,2000,2003,2006,2009,2012,2015,2018,2021,2024,2027,2030,2033,2036,2039,2042,2063,2066,2069,2072,2075,2078,2081,2084,2087,2090,2093,2096,2099,2102,2105,2108,2111,2114,2117,2137,2144,2154,2167,2171,2175,2178-2180,2187,2190,2195-2197,2212-2213,2215-2216,2218,2229,2235,2259,2261,2263-2264,2266,2270-2278,2281,2284,2287,2290,2293,2296,2299,2302,2415-2416,2554,2559,2565,2632,2634-2635,2653,2655,2659-2667,2673,2677-2696,2707,2709-2727,2729,2769,2771,2792,2855,2880,2896,2898,2900-2901,2903,2909-2911,2913,2915-2922,2954,2957,2966,2971,2973-2974,2977-2978,2992
+pnpm-workspace.yaml
+  s_fdbdae8c09ca7c::t_ae8580b8b85191 2-27
+src/common/errors.test.ts
+  s_fdbdae8c09ca7c::t_6a4f8ac161fe92 1
+src/common/firecrawl-utils.test.ts
+  s_fdbdae8c09ca7c::t_b20ac47783b370 9
+src/common/http.test.ts
+  s_fdbdae8c09ca7c::t_ef3c8bb478b521 8
+src/common/provider-response.test.ts
+  s_fdbdae8c09ca7c::t_41c39afefb2470 2
+src/common/results.test.ts
+  s_fdbdae8c09ca7c::t_15b170f028fb2a 2-8
+src/common/retry.test.ts
+  s_fdbdae8c09ca7c::t_a292c21a755c8a 1
+src/common/search-operators.test.ts
+  s_fdbdae8c09ca7c::t_4b95e60506c682 1
+src/common/validation.test.ts
+  s_fdbdae8c09ca7c::t_b03a1349af6409 1
+src/config/env.test.ts
+  s_fdbdae8c09ca7c::t_41e9c1e0bfad4b 1
+src/providers/ai-response/exa-answer/index.test.ts
+  s_fdbdae8c09ca7c::t_38d9286b53d125 8
+src/providers/ai-response/kagi-fastgpt/index.test.ts
+  s_fdbdae8c09ca7c::t_0eef9d55772320 8
+src/providers/ai-response/linkup/index.test.ts
+  s_fdbdae8c09ca7c::t_0481665d442387 8
+src/providers/enhancement/kagi-enrichment/index.test.ts
+  s_fdbdae8c09ca7c::t_b5a313e8c0bceb 8
+src/providers/processing/exa-contents/index.test.ts
+  s_fdbdae8c09ca7c::t_1248b0c99827d7 8
+src/providers/processing/exa-similar/index.test.ts
+  s_fdbdae8c09ca7c::t_72b6f05c7885d8 8
+src/providers/processing/firecrawl-actions/index.test.ts
+  s_fdbdae8c09ca7c::t_e51068ead441ce 8
+src/providers/processing/firecrawl-crawl/index.test.ts
+  s_fdbdae8c09ca7c::t_83f44b5e436500 8
+src/providers/processing/firecrawl-extract/index.test.ts
+  s_fdbdae8c09ca7c::t_e1371e06843041 8
+src/providers/processing/firecrawl-map/index.test.ts
+  s_fdbdae8c09ca7c::t_aa00d1a00ee0c3 8
+src/providers/processing/firecrawl-scrape/index.test.ts
+  s_fdbdae8c09ca7c::t_4c28e4c094bfc4 8
+src/providers/processing/kagi-summarizer/index.test.ts
+  s_fdbdae8c09ca7c::t_131f895fc52c7e 8
+src/providers/processing/tavily-extract/index.test.ts
+  s_fdbdae8c09ca7c::t_38ce6ae124e419 8
+src/providers/search/brave/index.test.ts
+  s_fdbdae8c09ca7c::t_19b0be772d0d3e 8
+src/providers/search/exa/index.test.ts
+  s_fdbdae8c09ca7c::t_c64acd2824ff39 8
+src/providers/search/github/index.test.ts
+  s_fdbdae8c09ca7c::t_e9844c7c9495fe 8
+src/providers/search/kagi/index.test.ts
+  s_fdbdae8c09ca7c::t_31bdb9c196c34c 8
+src/providers/search/search-operators.test.ts
+  s_fdbdae8c09ca7c::t_384b306c77ce87 8
+src/providers/search/tavily/index.test.ts
+  s_fdbdae8c09ca7c::t_9044bd5576d314 8
+src/server/handlers.test.ts
+  s_fdbdae8c09ca7c::t_e0403898330ef1 1
+src/server/provider-definitions.test.ts
+  s_fdbdae8c09ca7c::t_aa4b51a78b3670 1
+src/server/provider-registry.test.ts
+  s_fdbdae8c09ca7c::t_196351bfa10ca9 1
+src/server/tools/contract.test.ts
+  s_fdbdae8c09ca7c::t_0b36a39f587bf7 2
+src/server/tools/responses.test.ts
+  s_fdbdae8c09ca7c::t_ea185c587c17e7 1
+src/server/tools/schemas.test.ts
+  s_fdbdae8c09ca7c::t_6a91439a1c9c57 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f894f237927bf48d4af9d712565a0b2fafd83da6",
+  "prompts": {},
+  "sessions": {
+    "s_fdbdae8c09ca7c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1202c2a1-3a3c-4672-9642-5e437556b1a7",
+        "model": "claude-opus-5"
+      },
+      "human_author": "MK <fengmk2@gmail.com>"
+    }
+  }
+}
