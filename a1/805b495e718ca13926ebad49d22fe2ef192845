@@ -1,0 +1,95 @@
+.npmrc
+  s_71a3b49c0bdf46::t_8f8f64443ac3ec 1-2
+package.json
+  s_71a3b49c0bdf46::t_be36d7d7fca02b 52,70-73
+pnpm-lock.yaml
+  s_71a3b49c0bdf46::t_4414e97ec7ff2a 7-25,53-57,59-60,62-63,68,72,76,80,85,89,93,97,100,104,108,112,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,176,179,183,187,190-191,194-195,198-199,202-203,206-207,211,214-215,218-219,222-223,226-227,230-231,235,238-239,243-246,249,252,258-264,270,275-276,281-282,287-288,291-292,296-299,302,306,309-310,313-314,316-317,322-323,328-329,334-335,340-341,346-347,352-353,358-359,365-366,372-373,379-380,386-387,393-394,400-401,407-408,414-415,420-421,426-427,432-433,439,444,449,454,459,464,468-469,474-475,480-481,486-487,492-493,498-499,504-505,510-511,517-518,524-525,531-532,538-539,545-546,552-553,559-560,566-567,572-573,578-579,584-585,590-591,595,599,602,605,608-609,615,621,626,631,633-634,637,640,643,646,648-649,653-654,656,658-659,661,664,673,676,687,690,693,696,699,701-702,707,758-759,764-765,770-771,777-778,784-785,791-792,798-799,804-805,811,816,821,826,832,838,844,850,856,862,867,872,877,882,887,893,899,905,911,917,923,928,933,936,940,944,947,951,954,957,960,964-968,972,975,979,983,986,989,992,996,999,1002,1005,1014,1019,1023,1026,1030,1033,1037,1041,1045,1048,1051,1054,1056-1057,1060,1063,1066,1072,1078,1084,1090,1096,1103,1110,1117,1124,1130,1136,1140,1144,1147,1150,1154,1158,1163,1167,1170-1171,1184,1187-1188,1201,1204,1207,1210,1214,1218,1222,1226,1229,1234,1238,1241,1245,1248,1252,1255,1258,1261,1265,1268,1272,1276,1280,1284,1286-1288,1291,1295,1298,1301,1304,1307,1314-1315,1319-1320,1328,1369,1373-1374,1386,1391,1394,1563,1565-1570,1573,1575-1580,1584,1586-1589,1592,1594-1596,1599,1601-1604,1609,1611-1612,1614,1617-1620,1624,1626,1629,1631-1632,1635,1637-1640,1642-1643,1648,1651-1653,1657-1658,1661,1663,1665,1667,1670,1672-1673,1675,1677,1679-1684,1687,1689-1690,1693,1695,1697,1699-1703,1710-1713,1719,1722,1724,1726,1729,1732,1735,1738,1741,1744,1747,1750,1753,1756,1759,1762,1765,1768,1771,1774,1777,1780,1801,1804,1807,1810,1813,1816,1819,1822,1825,1828,1831,1834,1837,1840,1843,1846,1849,1852,1855,1858,1877,1884,1900,1915,1919,1922-1924,1931,1934-1935,1940-1941,1948,1960-1962,1973,1979,2005,2007-2008,2015-2022,2026,2029,2032,2035,2038,2041,2044,2047,2142-2143,2206,2288-2296,2300,2304-2323,2334,2336-2354,2356,2431,2445-2460,2462,2464-2471,2503,2506,2523,2527-2528,2537
+pnpm-workspace.yaml
+  s_71a3b49c0bdf46::t_c81a7099c4fd7d 5-29
+src/common/errors.test.ts
+  s_71a3b49c0bdf46::t_8287fea98c5379 1
+src/common/firecrawl-utils.test.ts
+  s_71a3b49c0bdf46::t_955b71f24a6829 9
+src/common/http.test.ts
+  s_71a3b49c0bdf46::t_66f43b42e18ff1 8
+src/common/provider-response.test.ts
+  s_71a3b49c0bdf46::t_d32a882a44e38c 2
+src/common/results.test.ts
+  s_71a3b49c0bdf46::t_868947a0677240 2-8
+src/common/retry.test.ts
+  s_71a3b49c0bdf46::t_d479f0ff141e2e 1
+src/common/search-operators.test.ts
+  s_71a3b49c0bdf46::t_46aad18f7098f7 1
+src/common/validation.test.ts
+  s_71a3b49c0bdf46::t_6c248eb392e450 1
+src/config/env.test.ts
+  s_71a3b49c0bdf46::t_bf2bca4aaa3739 1
+src/mcp-server.test.ts
+  s_71a3b49c0bdf46::t_17f87db16be165 1
+src/providers/ai-response/exa-answer/index.test.ts
+  s_71a3b49c0bdf46::t_ced48f13cb8583 8
+src/providers/ai-response/kagi-fastgpt/index.test.ts
+  s_71a3b49c0bdf46::t_27f70fa95fefe4 8
+src/providers/ai-response/linkup/index.test.ts
+  s_71a3b49c0bdf46::t_c6ffda28825f1b 8
+src/providers/enhancement/kagi-enrichment/index.test.ts
+  s_71a3b49c0bdf46::t_8e210592a97486 8
+src/providers/processing/exa-contents/index.test.ts
+  s_71a3b49c0bdf46::t_2aac143cc2ebe2 8
+src/providers/processing/exa-similar/index.test.ts
+  s_71a3b49c0bdf46::t_ae99f1ff88c238 8
+src/providers/processing/firecrawl-actions/index.test.ts
+  s_71a3b49c0bdf46::t_a55114eff9b962 8
+src/providers/processing/firecrawl-crawl/index.test.ts
+  s_71a3b49c0bdf46::t_bd8c2a75fd5af2 8
+src/providers/processing/firecrawl-extract/index.test.ts
+  s_71a3b49c0bdf46::t_ecbe23fe273c8f 8
+src/providers/processing/firecrawl-map/index.test.ts
+  s_71a3b49c0bdf46::t_f7cd6b679ac67a 8
+src/providers/processing/firecrawl-scrape/index.test.ts
+  s_71a3b49c0bdf46::t_f09fa1d66839c8 8
+src/providers/processing/kagi-summarizer/index.test.ts
+  s_71a3b49c0bdf46::t_098db4a9618de4 8
+src/providers/processing/tavily-extract/index.test.ts
+  s_71a3b49c0bdf46::t_0ed4ef3f939ffb 8
+src/providers/search/brave/index.test.ts
+  s_71a3b49c0bdf46::t_94444f39b4e1b1 8
+src/providers/search/exa/index.test.ts
+  s_71a3b49c0bdf46::t_f58aaf5a92a038 8
+src/providers/search/github/index.test.ts
+  s_71a3b49c0bdf46::t_f1a718d5b21f9f 8
+src/providers/search/kagi/index.test.ts
+  s_71a3b49c0bdf46::t_f6d11cd323fe84 8
+src/providers/search/search-operators.test.ts
+  s_71a3b49c0bdf46::t_baf8718647cfb1 8
+src/providers/search/tavily/index.test.ts
+  s_71a3b49c0bdf46::t_179a92aa547c28 8
+src/server/handlers.test.ts
+  s_71a3b49c0bdf46::t_73f9fd0f560f0d 1
+src/server/provider-definitions.test.ts
+  s_71a3b49c0bdf46::t_a4460176fd8762 1
+src/server/provider-registry.test.ts
+  s_71a3b49c0bdf46::t_d91e70c185b7b8 1
+src/server/tools/contract.test.ts
+  s_71a3b49c0bdf46::t_bd94eafce520cf 2
+src/server/tools/responses.test.ts
+  s_71a3b49c0bdf46::t_c272cf2be584b9 1
+src/server/tools/schemas.test.ts
+  s_71a3b49c0bdf46::t_59b5d0547f742f 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a1805b495e718ca13926ebad49d22fe2ef192845",
+  "prompts": {},
+  "sessions": {
+    "s_71a3b49c0bdf46": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d1129124-4b50-493c-a6b0-9bd30f8b1e4d",
+        "model": "claude-opus-5"
+      },
+      "human_author": "MK <fengmk2@gmail.com>"
+    }
+  }
+}
