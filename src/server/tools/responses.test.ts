@@ -1,4 +1,4 @@
-import { afterEach, describe, expect, it } from 'vitest';
+import { afterEach, describe, expect, it } from 'vite-plus/test';
 import { ErrorType, ProviderError } from '../../common/types.js';
 import {
 	create_error_tool_response,
