@@ -5,7 +5,7 @@ import {
 	expect,
 	it,
 	vi,
-} from 'vitest';
+} from 'vite-plus/test';
 
 const search = vi.hoisted(() => ({
 	code: vi.fn(),
