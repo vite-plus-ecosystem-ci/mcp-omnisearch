@@ -1,4 +1,6 @@
 minimumReleaseAge: 2880
 minimumReleaseAgeExclude:
   - tmcp
+  # Ecosystem-ci smoke test: Vite+ core pins freshly published oxc packages.
+  - '@oxc-project/*'
   - '@tmcp/*'
