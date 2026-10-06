@@ -1,4 +1,4 @@
-import { describe, expect, it, vi } from 'vitest';
+import { describe, expect, it, vi } from 'vite-plus/test';
 import {
 	should_warn_for_local_file_offload,
 	warn_for_local_file_offload,

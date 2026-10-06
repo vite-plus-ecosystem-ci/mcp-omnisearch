@@ -1,5 +1,5 @@
 import * as v from 'valibot';
-import { describe, expect, it } from 'vitest';
+import { describe, expect, it } from 'vite-plus/test';
 import { parse_provider_response } from './provider-response.js';
 import { ErrorType, ProviderError } from './types.js';
 

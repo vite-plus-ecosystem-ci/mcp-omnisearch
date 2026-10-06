@@ -1,4 +1,4 @@
-import { afterEach, describe, expect, it, vi } from 'vitest';
+import { afterEach, describe, expect, it, vi } from 'vite-plus/test';
 import { is_retryable_error, retry_with_backoff } from './retry.js';
 import { ErrorType, ProviderError } from './types.js';
 

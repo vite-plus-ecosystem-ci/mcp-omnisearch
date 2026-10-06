@@ -34,3 +34,4 @@ Thumbs.db
 
 # MCP Registry
 .mcpregistry_*
+.vitest/

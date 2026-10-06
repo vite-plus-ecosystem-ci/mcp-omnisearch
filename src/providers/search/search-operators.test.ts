@@ -5,7 +5,7 @@ import {
 	expect,
 	it,
 	vi,
-} from 'vitest';
+} from 'vite-plus/test';
 
 const fetch_mock = vi.fn();
 

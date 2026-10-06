@@ -5,7 +5,7 @@ import {
 	expect,
 	it,
 	vi,
-} from 'vitest';
+} from 'vite-plus/test';
 import { http_json } from './http.js';
 import { ErrorType } from './types.js';
 
