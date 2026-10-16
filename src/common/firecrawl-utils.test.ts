@@ -6,7 +6,7 @@ import {
 	expect,
 	it,
 	vi,
-} from 'vitest';
+} from 'vite-plus/test';
 
 vi.mock('./http.js', () => ({
 	http_json: vi.fn(),
