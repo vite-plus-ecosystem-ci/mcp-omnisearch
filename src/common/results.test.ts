@@ -1,5 +1,11 @@
 import { existsSync, readFileSync, rmSync } from 'node:fs';
-import { afterEach, beforeEach, describe, expect, it } from 'vitest';
+import {
+	afterEach,
+	beforeEach,
+	describe,
+	expect,
+	it,
+} from 'vite-plus/test';
 import {
 	aggregate_url_results,
 	handle_large_result,

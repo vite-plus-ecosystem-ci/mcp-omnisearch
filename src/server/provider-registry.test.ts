@@ -1,4 +1,4 @@
-import { describe, expect, it } from 'vitest';
+import { describe, expect, it } from 'vite-plus/test';
 import { ProviderError } from '../common/types.js';
 import { ProviderRegistry } from './provider-registry.js';
 
