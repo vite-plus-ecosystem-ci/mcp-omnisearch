@@ -5,7 +5,7 @@ import {
 	expect,
 	it,
 	vi,
-} from 'vitest';
+} from 'vite-plus/test';
 
 const json_response = (body: unknown, status = 200) =>
 	new Response(JSON.stringify(body), { status });
