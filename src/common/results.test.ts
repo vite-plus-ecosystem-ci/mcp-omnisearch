@@ -1,5 +1,5 @@
 import { readFileSync, rmSync } from 'node:fs';
-import { afterEach, describe, expect, it, vi } from 'vitest';
+import { afterEach, describe, expect, it, vi } from 'vite-plus/test';
 import {
 	handle_large_result,
 	type LargeResultResponse,
