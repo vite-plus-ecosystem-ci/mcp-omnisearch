@@ -1,4 +1,4 @@
-import { afterEach, describe, expect, it, vi } from 'vitest';
+import { afterEach, describe, expect, it, vi } from 'vite-plus/test';
 import { create_mcp_server } from '../mcp-server.js';
 import { execute_code, provider_declaration } from './index.js';
 import * as providers from './providers.js';

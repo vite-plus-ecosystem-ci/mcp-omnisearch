@@ -20,3 +20,20 @@ minimumReleaseAgeExclude:
   # Ecosystem-ci smoke test: Vite+ core pins freshly published oxc packages.
   - '@oxc-project/*'
   - '@tmcp/*'
+  - tsrs
+  - '@tsrs/*'
+catalog:
+  vite: npm:@voidzero-dev/vite-plus-core@0.0.0-commit.8ec336609b9c3dee6c269c374904b008233dadb8
+  vitest: 5.1.1
+  vite-plus: 0.0.0-commit.8ec336609b9c3dee6c269c374904b008233dadb8
+  '@vitest/coverage-v8': 5.1.1
+overrides:
+  vite@*: 'catalog:'
+  vitest@*: 'catalog:'
+peerDependencyRules:
+  allowAny:
+    - vite
+    - vitest
+  allowedVersions:
+    vite: '*'
+    vitest: '*'

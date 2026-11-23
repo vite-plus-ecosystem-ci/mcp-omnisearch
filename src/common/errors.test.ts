@@ -1,4 +1,4 @@
-import { describe, expect, it } from 'vitest';
+import { describe, expect, it } from 'vite-plus/test';
 import { normalize_provider_http_error } from './errors.js';
 import { ErrorType, ProviderError } from './types.js';
 
